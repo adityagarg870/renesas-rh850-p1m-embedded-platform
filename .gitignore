@@ -1,0 +1,34 @@
+# Renesas CS+ build output
+*.abs
+*.map
+*.obj
+*.lst
+*.asm
+*.pbd
+*.~*
+
+# Project debug & settings folders
+Debug/
+Release/
+*.dep
+*.log
+
+# Temporary/backup files
+*.bak
+*.tmp
+*.swp
+*.suo
+*.ncb
+*.opt
+*.plg
+
+# Generated output (don’t upload binaries)
+*.bin
+*.elf
+*.mot
+*.hex
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini

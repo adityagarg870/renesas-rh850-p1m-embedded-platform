@@ -1,0 +1,285 @@
+QualityReport
+Sunday, September 7, 2025 3:57:33 PM
+
+------ Start build(I_Axle00, DefaultBuild) ------
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe main.c -oDefaultBuild\main.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_2e81d5a7225f4e1394dad8ea90308f46tmx2xh4o.qua -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe Timer.c -oDefaultBuild\Timer.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_9ca1635684cc4d579a2dea3455a5d462ojofaglf.yj2 -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe GP_SPI_Master_CSIG0.c -oDefaultBuild\GP_SPI_Master_CSIG0.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_2ee5f5bd8db34a3eb7b0ce83d776b5bbb5orgqnz.ywq -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe GP_SPI_Slave_CSIG0.c -oDefaultBuild\GP_SPI_Slave_CSIG0.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_2d8195523afb47fc8404d807a23cb82bn1lnl0t4.oo5 -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe HS_SPI_Master_CSIH0.c -oDefaultBuild\HS_SPI_Master_CSIH0.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_b1669b04889146e7adc68c413e303b7bl4j3xkfd.dtr -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe TJA1145_CAN_CONFIG.c -oDefaultBuild\TJA1145_CAN_CONFIG.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_7c1906357d37450a92ee88f9fc0a43c3gm1prfhm.ver -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe Clk.c -oDefaultBuild\Clk.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_8e64295c9721445bb74e899a5ffb25cf1ouvir1q.tel -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe System_Init.c -oDefaultBuild\System_Init.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_ba5d558b2b5d4b4aadbccb6c0db9d500mduw55di.dgf -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe App_Tasks.c -oDefaultBuild\App_Tasks.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_0271567914654fed97634e518f54b49emdnza1fm.rnm -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe SchM.c -oDefaultBuild\SchM.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_56819064a1eb4b6ca26d5b97f8bc98fbe4itxu0i.yao -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe Crc.c -oDefaultBuild\Crc.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_e046d37b1ab94eb696909aa77d91b876dktn05ck.czo -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe WdgM.c -oDefaultBuild\WdgM.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_e0a2710406f24f16b6fb2d87091bad1brpxrlegs.zck -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe TJA1145_Safety.c -oDefaultBuild\TJA1145_Safety.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_53ac27454a9d444296929e9d7f8cd691auqljeoa.ohu -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe Diag.c -oDefaultBuild\Diag.obj -Xcpu=g3m -g -g_line -I. -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_8d468065d8744a03aa83d48dc506ae7af50vcyli.wcz -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe boot.asm -oDefaultBuild\boot.obj -Xcpu=g3m -g -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_6d3430bc79184ce1b4fec1b225f696b35lcq4q32.iac -Xmsg_lang=english
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\ccrh.exe cstart.asm -oDefaultBuild\cstart.obj -Xcpu=g3m -g -c -MAKEUD=DefaultBuild -Xexec_time=C:\Users\dxr1cob\AppData\Local\Temp\CSPlusBuildTool_03e74b304c5f477f98d0bc2c0194541322exwqzf.odh -Xmsg_lang=english
+System_Init.c(78):W0520177:Function "Clock_Init" was declared but never referenced
+C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RH\V2.07.00\Bin\rlink.exe -MAKEUD=DefaultBuild\I_Axle00.lk.ud -subcommand=DefaultBuild\I_Axle00.clnk
+W0561017:Paid license of CC-RH V2 is not found, and the evaluation period has expired. Please consider purchasing the product.
+W0561017:Paid license of CC-RH V2 is not found, and the evaluation period has expired. Please consider purchasing the product.
+Renesas Optimizing Linker Completed
+------ Build ended(Error:0, Warning:3)(I_Axle00, DefaultBuild) ------
+
+--- CommandFile 1 ---
+DefaultBuild\I_Axle00.clnk :
+-input=DefaultBuild\boot.obj
+-input=DefaultBuild\cstart.obj
+-input=DefaultBuild\main.obj
+-input=DefaultBuild\Timer.obj
+-input=DefaultBuild\GP_SPI_Master_CSIG0.obj
+-input=DefaultBuild\GP_SPI_Slave_CSIG0.obj
+-input=DefaultBuild\HS_SPI_Master_CSIH0.obj
+-input=DefaultBuild\TJA1145_CAN_CONFIG.obj
+-input=DefaultBuild\TJA1145_Safety.obj
+-input=DefaultBuild\Clk.obj
+-input=DefaultBuild\System_Init.obj
+-input=DefaultBuild\App_Tasks.obj
+-input=DefaultBuild\SchM.obj
+-input=DefaultBuild\Crc.obj
+-input=DefaultBuild\WdgM.obj
+-input=DefaultBuild\Diag.obj
+-debug
+-nocompress
+-NOOPtimize
+-output=DefaultBuild\I_Axle00.abs
+-library=v850e3v5\rhf8n.lib
+-library=v850e3v5\libmalloc.lib
+-list=DefaultBuild\I_Axle00.map
+-show=symbol,total_size
+-start=RESET,EIINTTBL/0,.const,.INIT_DSEC.const,.INIT_BSEC.const,.text,.data/00008000,.data.R,.bss,.stack.bss/FEDF0000
+-rom=.data=.data.R
+-memory=high
+-nologo
+-end
+-input=DefaultBuild\I_Axle00.abs
+-output=DefaultBuild\I_Axle00.mot
+-form=stype
+-exit
+
+
+--- SHA1 hash value of output files ---
+C:\Users\dxr1cob\Desktop\RH850P1X-C\I_Axle00\DefaultBuild\I_Axle00.abs: 822a1d815397d4be8d113b7ad2944f6eb688e74c
+C:\Users\dxr1cob\Desktop\RH850P1X-C\I_Axle00\DefaultBuild\I_Axle00.mot: ccbaa7e595ea14d0b9e032c1eafe69cbeb581baf
+
+
+--- System Information ---
+*OS Version
+ Microsoft Windows 11 Enterprise (-, 10.0.22631, WOW64)
+*Language
+ English (United States)
+*.NET Framework Version
+ Microsoft .NET Framework 4 [.NET 4.8 or later] (533320)
+*WebView2 Version
+ 139.0.3405.125
+
+--- Application Information ---
+*Product Name
+ CS+ for CC
+*Package Version
+ V8.14.00  [02 Jun 2025]
+*Version
+ V9.14.00.04 [25 Apr 2025]
+*Assembly Version
+ 3.12.10.1
+*Product License
+ 
+*Execution Place
+ C:\Program Files (x86)\Renesas Electronics\CS+\CC
+*Memory Usage
+ *Private Working Set
+  308 MB
+ *Number of GDI Objects
+  2519
+ *Number of USER Objects
+  1475
+ *Opened Files
+  29 editors, 29 files, 2515 KB
+
+--- Build Tool Plug-in Information ---
+RH850 Build tool CC-RH Plug-in
+ *Version
+  V8.14.00.01 [10 Apr 2025]
+ *Assembly Version
+  1.1.10.12
+ *DLL File Name
+  BuildToolCCRH.dll
+RL78 Build tool CC-RL Plug-in
+ *Version
+  V8.14.00.01 [10 Apr 2025]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  BuildToolCCRL.dll
+RX Build tool CC-RX Plug-in
+ *Version
+  V8.14.00.01 [10 Apr 2025]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCCRX.dll
+RH850 Build tool GHS CCRH850 Plug-in
+ *Version
+  V1.11.00.01 [18 Apr 2025]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  BuildToolGHSCCRH850.dll
+
+--- Debug Tool Plug-in Information ---
+Debugger Collection Plug-in
+ *Version
+  V8.14.00.02 [08 May 2025]
+ *Assembly Version
+  2.12.10.1
+ *DLL File Name
+  DebugToolCollection.dll
+
+--- Other Plug-in Information ---
+Code Generator Plug-in for RH850
+ *Version
+  V1.02.02.05 [25 May 2018]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  CodeGeneratorRH850.dll
+Code Generator Plug-in
+ *Version
+  V4.08.06.01 [28 Oct 2022]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  CodePart.dll
+Code Generator/PinView Plug-in
+ *Version
+  V2.10.07.02 [08 Nov 2021]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  CodePart2.dll
+Debug Console Plug-in
+ *Version
+  V8.09.00.03 [24 Nov 2022]
+ *Assembly Version
+  8.9.0.0
+ *DLL File Name
+  DebugConsole.dll
+Quick and Effective tool solution - QE
+ *Version
+  V9.14.00.02 [08 Apr 2025]
+ *Assembly Version
+  1.15.10.16
+ *DLL File Name
+  InCarTools.dll
+Pin Configurator Plug-in
+ *Version
+  V1.54.01.01 [31 Jul 2014]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PinConfig.dll
+Program Analyzer Plug-in
+ *Version
+  V4.13.00.03 [24 May 2023]
+ *Assembly Version
+  3.12.11.9
+ *DLL File Name
+  ProgramAnalyzer.dll
+IronPython Console Plug-in
+ *Version
+  V1.49.00.02 [08 Nov 2024]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PythonConsole.dll
+Editor plug-in DLL
+ *Version
+  V1.21.00.01 [09 Apr 2025]
+ *Assembly Version
+  1.1.0.0
+ *DLL File Name
+  SEditor.dll
+Smart Configurator for RH850 Communication Plug-in
+ *Version
+  V1.02.11.01 [08 May 2025]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  SmcCodePartRH850.dll
+Stack Usage Tracer
+ *Version
+  V1.05.00.02 [30 Jul 2014]
+ *Assembly Version
+  1.30.11.15
+ *DLL File Name
+  Stk.dll
+Update Manager Plug-in
+ *Version
+  V2.05.00.04 [30 May 2025]
+ *Assembly Version
+  1.25.4.17
+ *DLL File Name
+  Update.dll
+
+Debug Tool Common Interface
+ *Version
+  V8.14.00.02 [08 May 2025]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  CommonDebuggerInterface.dll
+Device Information Common Interface
+ *Version
+  V9.14.00.02 [08 Apr 2025]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  DeviceInformation.dll
+
+--- Main Project Information ---
+C:\Users\dxr1cob\Desktop\RH850P1X-C\I_Axle00\I_Axle00.mtpj
+Microcontroller Information
+ *R7F701310
+  *File Name: Version
+   RH850_Productlist.xml: V8.140000
+   R7F701310_common.xml: V1.41.00.XX.XX
+   DR7F701310.DVF: V1.41
+   -: -
+   -: -
+  
+
+Build Tool Information
+ *CC-RH
+   * Version of plug-in(*.dll)
+     V8.14.00.02 [10 Apr 2025]
+   * The Version of the Compiler Package
+     V2.07.00
+  
+
+Debug Tool Information
+ *RH850 Simulator
+  Debugger Library V8.14.00.02 [08 May 2025]
+  
+
+Other Tool Information
+ *None
+
+ *None
+
+ *None
+
+ *None
+
+ *Program Analyzer
+  *Version
+   V4.13.00.03 [24 May 2023]
+
+ *None
+
+ *None
+
+
