@@ -37,6 +37,7 @@ It provides a reusable and modular embedded software platform with ready-to-use 
 ---
 
 ## 📜 License
-This project is released under the **Educational Use Only License** (see [LICENSE](./LICENSE)).  
+This project is released under the **Educational Use Only License** (see [LICENSE](renesas-rh850-p1m-embedded-platform/License)).  
 It may be used for **learning, academic, and interview preparation purposes**.  
 **Commercial use is not permitted.**
+
