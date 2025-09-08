@@ -92,3 +92,4 @@ It may be used for **learning, academic, and interview preparation purposes**.
 
 Certain safety-critical implementations (e.g., diagnostics, error reaction strategies) are intentionally omitted due to confidentiality.
 The remaining code demonstrates code quality, modular design, and professional practices relevant to automotive embedded systems
+
