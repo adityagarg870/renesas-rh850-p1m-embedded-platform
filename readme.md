@@ -1,12 +1,12 @@
 # Renesas/RH850 - Embedded Platform Project
 
-This repository contains the **I_Axle00** project developed using **Renesas CS+ IDE** for the **RH850/P1M** microcontroller family.  
+This repository contains the **rh850-p1m-embedded-platform** project developed using **Renesas CS+ IDE** for the **RH850/P1M** microcontroller family.  
 It provides a reusable and modular embedded software platform with ready-to-use configurations.
 
 ---
 
 ## 📂 Project Structure
-- `I_Axle00.mtpj` – CS+ project file (open this to load the project in CS+ IDE).
+- `rh850-p1m-embedded-platform.mtpj` – CS+ project file (open this to load the project in CS+ IDE).
 - `*.c`, `*.h`, `*.asm` – Source code and headers for drivers, tasks, and system setup.
 - `README.md` – Project documentation.
 - `LICENSE` – Usage terms.
@@ -40,6 +40,7 @@ It provides a reusable and modular embedded software platform with ready-to-use 
 This project is released under the **Educational Use Only License** (see [LICENSE](License)).  
 It may be used for **learning, academic, and interview preparation purposes**.  
 **Commercial use is not permitted.**
+
 
 
 
